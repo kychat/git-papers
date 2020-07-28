@@ -1,3 +1,4 @@
-#My super amazing title
+#My super amazing titleAuthored by: Elizabeth
 
-Authored by: Elizabeth
+
+amazing
