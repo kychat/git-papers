@@ -1,4 +1,6 @@
-#My super amazing titleAuthored by: Elizabeth
+#My super amazing title Authored by: Elizabeth
 
 
-amazing
+amazing.
+
+based on results on Doe (2000).
